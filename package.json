@@ -1,0 +1,21 @@
+{
+  "name": "ljy",
+  "version": "1.0.0",
+  "description": "弹窗组件，具有丰富的参数配置",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "弹窗、拖拽"
+  ],
+  "author": "ljy",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
